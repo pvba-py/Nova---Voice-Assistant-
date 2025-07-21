@@ -49,9 +49,9 @@
 Nova processes voice commands in real-time with impressive speed:
 
 ```
-🎤 User: "What's the weather like today?"
-🧠 Nova: "I'd recommend checking your local weather app for current conditions!"
-⏱️  Total Response Time: ~4.2 seconds
+ User: "What's the weather like today?"
+ Nova: "I'd recommend checking your local weather app for current conditions!"
+ Total Response Time: ~4.2 seconds
 ```
 
 **Performance Highlights:**
@@ -270,7 +270,7 @@ Here's the complete workflow of how Nova processes your voice commands:
 
 **Total Response Time**: ~4-5 seconds from voice input to audio response
 
-![Nova Workflow](Pipeline.png)
+![Nova Workflow](media/Pipeline.png)
 
 *The complete Nova pipeline showing the flow from voice input to AI response*
 
