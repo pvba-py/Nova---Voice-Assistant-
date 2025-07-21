@@ -65,7 +65,7 @@ Nova processes voice commands in real-time with impressive speed:
 Get a visual preview of Nova in action:
 
 <div align="center">
-  <img src="media/Nova.png" alt="Nova Workflow" width="300"/>
+  <img src="media/Nova.png" alt="Nova Workflow" width="800"/>
 </div>
 
 *Nova's intuitive interface and real-time conversation display*
