@@ -17,6 +17,7 @@
 ## Table of Contents
 
 - [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Quick Start](#quick-start)
   - [Prerequisites](#prerequisites)
@@ -58,6 +59,18 @@ Nova processes voice commands in real-time with impressive speed:
 - Speech Recognition: ~2.1s (Deepgram Nova-2)
 - AI Processing: ~0.8s (Google Gemini 2.0 Flash) 
 - Audio Generation: ~1.3s (ElevenLabs)
+
+## Screenshots
+
+Get a visual preview of Nova in action:
+
+<div align="center">
+  <img src="media/image1.png" alt="Nova Interface" width="300"/>
+  <img src="media/image2.png" alt="Nova Dashboard" width="300"/>
+  <img src="media/image3.png" alt="Nova Workflow" width="300"/>
+</div>
+
+*Nova's intuitive interface and real-time conversation display*
 
 ## Features
 
