@@ -68,7 +68,7 @@ Get a visual preview of Nova in action:
   <img src="media/Nova.png" alt="Nova Workflow" width="800"/>
 </div>
 
-*Nova's intuitive interface and real-time conversation display*
+*Nova's intuitive interface and real-time conversation display.For more, check Media Folder.*
 
 ## Features
 
