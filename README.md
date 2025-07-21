@@ -330,9 +330,9 @@ For feature requests or collaboration opportunities, feel free to reach out via 
 
 **Built with ❤️ by PVB Adithya**
 
-📧 **Email:** [adithya.vprata@gmail.com](mailto:adithya.vprata@gmail.com)  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pvba/)  
-🔗 **GitHub:** [pvba-py](https://github.com/pvba-py)  
-🚀 **Project Repository:** [Nova Voice Assistant](https://github.com/pvba-py/Nova---Voice-Assistant-)
+ **Email:** [adithya.vprata@gmail.com](mailto:adithya.vprata@gmail.com)  
+ **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pvba/)  
+ **GitHub:** [pvba-py](https://github.com/pvba-py)  
+ **Project Repository:** [Nova Voice Assistant](https://github.com/pvba-py/Nova---Voice-Assistant-)
 
 *Your Smart Voice Companion*
