@@ -1,9 +1,22 @@
 # Nova - Smart Voice Assistant
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-GPL%20v3-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![AI](https://img.shields.io/badge/AI-Google%20Gemini-orange)
+
 > A powerful, real-time voice assistant built with Python that combines speech recognition, AI conversation, and text-to-speech in an elegant web interface.
+
+**Created by:** PVB Adithya  
+**Contact:** adithya.vprata@gmail.com  
+**LinkedIn:** [https://www.linkedin.com/in/pvba/](https://www.linkedin.com/in/pvba/)  
+**GitHub:** [https://github.com/pvba-py](https://github.com/pvba-py)
+
+---
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Features](#features)
 - [Quick Start](#quick-start)
   - [Prerequisites](#prerequisites)
@@ -25,6 +38,26 @@
 - [Inspiration & Credits](#inspiration--credits)
 - [Acknowledgments](#acknowledgments)
 - [Troubleshooting](#troubleshooting)
+- [Support](#support)
+- [Roadmap](#roadmap)
+- [Contact & Connect](#contact--connect)
+
+---
+
+## Demo
+
+Nova processes voice commands in real-time with impressive speed:
+
+```
+🎤 User: "What's the weather like today?"
+🧠 Nova: "I'd recommend checking your local weather app for current conditions!"
+⏱️  Total Response Time: ~4.2 seconds
+```
+
+**Performance Highlights:**
+- Speech Recognition: ~2.1s (Deepgram Nova-2)
+- AI Processing: ~0.8s (Google Gemini 2.0 Flash) 
+- Audio Generation: ~1.3s (ElevenLabs)
 
 ## Features
 
@@ -268,6 +301,38 @@ Here's the complete workflow of how Nova processes your voice commands:
 - Check system audio drivers
 - Verify audio file permissions
 
+## Support
+
+If you encounter any issues or have questions:
+
+1. **Check the [Troubleshooting](#troubleshooting) section** for common solutions
+2. **Search existing issues** on [GitHub Issues](https://github.com/pvba-py/Nova---Voice-Assistant-/issues)
+3. **Create a new issue** if your problem isn't covered
+4. **Contact me directly** at adithya.vprata@gmail.com
+
+For feature requests or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pvba/).
+
+## Roadmap
+
+### Planned Features
+- **Multi-language Support**: Add support for multiple languages in speech recognition
+- **Custom Wake Words**: Implement custom wake word detection
+- **Voice Cloning**: Integration with voice cloning capabilities
+- **Mobile App**: React Native mobile application
+- **Cloud Deployment**: Docker containerization and cloud deployment options
+- **Plugin System**: Extensible plugin architecture for custom commands
+
+
+
 ---
 
-**Built with ❤️ by [Vasuja](https://github.com/pvba-py)** • [Nova Voice Assistant](https://github.com/pvba-py/Nova---Voice-Assistant-) - Your Smart Voice Companion
+## Contact & Connect
+
+**Built with ❤️ by PVB Adithya**
+
+📧 **Email:** [adithya.vprata@gmail.com](mailto:adithya.vprata@gmail.com)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pvba/)  
+🔗 **GitHub:** [pvba-py](https://github.com/pvba-py)  
+🚀 **Project Repository:** [Nova Voice Assistant](https://github.com/pvba-py/Nova---Voice-Assistant-)
+
+*Your Smart Voice Companion*
